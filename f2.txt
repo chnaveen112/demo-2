@@ -1,3 +1,7 @@
 cnsdjcnsd
 jkcnsds
 name- naven
+
+course=devops
+
+location= chennai
